@@ -1,4 +1,4 @@
-# Apex Ride
+# Musafir on Highway
 
 An endless 3D motorbike racer in the browser, inspired by motorcycle racing. Ride a sport bike down a curving highway forever, lean through the corners, weave through traffic, and watch the time of day change as you go.
 
