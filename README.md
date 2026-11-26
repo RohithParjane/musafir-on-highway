@@ -26,8 +26,9 @@ Every 3.5 km is a new level, cycling **Morning → Day → Evening → Night** a
 - Six-speed auto gearbox, rev counter and a synthesized engine and wind sound.
 - **Chase cam**, a **cockpit cam** with working twin round gauges, and a trackside **TV cam**.
 - Traffic in three lanes with lane changes and indicators, plus oncoming traffic on the other carriageway.
+- **No divider:** cross the painted median and ride the wrong way into oncoming traffic for **4x points**. Dodging an oncoming car closely is a **head-on miss** (+300 x combo).
 - Scoring: distance points, overtakes, and **near-miss combos** (up to x8). Crashing resets your ride score; the best score is saved in your browser.
-- Real-time shadows, bloom on lights, a procedural endless road with hills and curves, guardrails, a median barrier, street lamps, power pylons, overhead signs and trees.
+- Real-time shadows, sky reflections on paint and metal, drifting clouds, bloom on lights, a procedural endless road with hills and curves, guardrails, a painted median, street lamps, power pylons, overhead signs and trees.
 
 ## Tech
 
