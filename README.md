@@ -2,7 +2,7 @@
 
 An endless 3D motorbike racer in the browser, inspired by motorcycle racing. Ride a sport bike down a curving highway forever, lean through the corners, weave through traffic, and watch the time of day change as you go.
 
-**Play:** https://rohithparjane.github.io/apex-ride/
+**Play:** https://rohithparjane.github.io/musafir-on-highway/
 (or serve this folder locally, e.g. `python3 -m http.server`, and open `http://localhost:8000`; it needs a web server because it uses ES modules)
 
 ## Levels: time of day
